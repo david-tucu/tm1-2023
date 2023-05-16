@@ -1,0 +1,26 @@
+TEMAS PARA REPASAR HOY
+
+(consultas entregas TP1)
+
+OPERACION CON LA MATRIZ
+push()     pushMatrix()  
+translate()
+rotate() 
+pop()      popMatrix() 
+
+resumen funciones
+
+PRESENTACION CONSIGNA TP2
+
+estructuras iterativas
+resumen ciclo for
+
+map()
+lerpColor()
+
+
+ejemplo uniendo temas
+(CONSIGNA TP2)
+
+consigna Desafio for-funciones
+
