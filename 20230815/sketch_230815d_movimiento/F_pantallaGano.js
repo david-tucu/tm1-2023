@@ -1,0 +1,4 @@
+function pantallaGano(){
+   textoCentrado("Ganaste!");
+
+}
