@@ -1,0 +1,5 @@
+opciones para replicar este sketch:
+
+Una es que empieces un sketch nuevo en Processing en modo p5.js y vayas creando una pestaña nueva por cada archivo, y copies y pegues el código en cada una. No importa el orden. Sólo es importante que el contenido de sketch_230822c.js esté en la pestaña principal.
+
+La otra es descargar el repositorio y buscar esta carpeta y copiarla completa.
